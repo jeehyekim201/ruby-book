@@ -1,0 +1,1 @@
+This book is licensed by Launch School for its students.
