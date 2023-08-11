@@ -1,0 +1,1 @@
+puts "The first puts x gives us 3, but the second one throws an error because x is not available as it is created within the scope."
