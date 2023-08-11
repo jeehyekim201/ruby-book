@@ -1,0 +1,1 @@
+I'm excited to finally start the Ruby Book, so I will work hard on the exercises!
